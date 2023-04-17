@@ -1,7 +1,7 @@
 # Anggota Kelompok
 - Angga Gamma Putra 01082200030@student.uph.edu
 - Ferdynand Chandra 01082200014@student.uph.edu
-- Gabriela Bianka Eva Vianka Bimbin 01082200031@student.uph.edu
+- Gabriela Bianka Eva Ivanka Bimbin 01082200031@student.uph.edu
 
 # PENDAHULUAN
 Ini adalah sebuah Sistem Information Retrieval dengan Vector Space Model dan sebuah dataset dari ir_datasets : vaswani

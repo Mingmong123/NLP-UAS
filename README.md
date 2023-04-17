@@ -39,5 +39,5 @@ http://ir.dcs.gla.ac.uk/resources/test_collections/npl/npl.tar.gz
 # Repositori Github
 https://github.com/Mingmong123/NLP-UAS
 
-# Link Main-Branch notebook
+# Google Collab Main-Branch notebook
 https://colab.research.google.com/drive/1AizUfUtzFvk0tgKrrBAT8iKhZ5oD8RzH?usp=sharing

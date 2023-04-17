@@ -1,8 +1,9 @@
-doc-text - The ***documents*** in text form
-query-text - The ***queries*** in text form
-doc-vecs - The documents represented by term IDs
-query-vecs - The queries represented by term IDs
-term-vocab - Table of terms with corresponding IDs
-rlv-ass - ***Relevance*** assesments
-term-vecs - A file of numbers, don't know what they do
-term-vocab - Another file of numbers
+*** Bit-bit***
+- doc-text - document dalam bentuk teks
+- query-text - query dalam bentuk teks
+- doc-vecs - document yang diwakili oleh ID vocab
+- query-vecs - query yang diwakili oleh ID vocab
+- term-vocab - Tabel vocab  dengan ID yang sesuai
+- rlv-ass - Penilaian relevansi
+- term-vecs - Berkas berisi angka, tidak tahu apa fungsinya
+- term-vocab - Berkas lain yang berisi angka-angka

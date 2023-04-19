@@ -41,3 +41,7 @@ https://github.com/Mingmong123/NLP-UAS
 
 # Google Collab Main-Branch notebook
 https://colab.research.google.com/drive/1AizUfUtzFvk0tgKrrBAT8iKhZ5oD8RzH?usp=sharing
+
+# Project Proposal
+https://docs.google.com/document/d/1sSSfRIQtd6Z4Ld2hhHrPSpVeHIuUXE7_/edit?usp=sharing&ouid=102461196022590008971&rtpof=true&sd=true
+

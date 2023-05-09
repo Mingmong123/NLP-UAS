@@ -1,3 +1,6 @@
+https://medium.com/@gfazcar/meningkatkan-sistem-pengambilan-informasi-dengan-model-information-retrieval-ab20a355962d
+
+
 # Anggota Kelompok
 - Angga Gamma Putra 01082200030@student.uph.edu
 - Ferdynand Chandra 01082200014@student.uph.edu
